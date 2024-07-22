@@ -8,7 +8,7 @@ Most wave models consider a fully developed, open ocean. Whilst WAVEWATCH III (W
 
 Firstly, it was important to define the shorelines and depth of the ocean. Initially, data from the Gloabl Self-consistent, Hierarchical, High-resolution Geography Database (GSHHG) was used, following a paper on the utility of obstruction grids for WW3.
 
-![alt text](http://url/to/img.png](https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Database.png)
+![alt text](https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Database.png)
 
 # Distribution of Energy
 
