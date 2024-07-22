@@ -8,11 +8,22 @@ Most wave models consider a fully developed, open ocean. Whilst WAVEWATCH III (W
 
 Firstly, it was important to define the shorelines and depth of the ocean. Initially, data from the Gloabl Self-consistent, Hierarchical, High-resolution Geography Database (GSHHG) was used, following a paper on the utility of obstruction grids for WW3.
 
-<!--- ![alt text](https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Database.png) --->
-
+<!--- 
 <p align="center">
   <img src="https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Database.png" alt="Graph 1" width="45%" style="display: inline-block; margin: 10px;">
   <img src="https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Cardigan_Bay.png" alt="Graph 2" width="45%" style="display: inline-block; margin: 10px;">
+</p>
+--->
+
+<p align="center" style="display: flex; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Database.png" alt="Graph 1" width="300px">
+    <p>Graph 1: Description of the first graph</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/GSHHG_Cardigan_Bay.png" alt="Graph 2" width="300px">
+    <p>Graph 2: Description of the second graph</p>
+  </div>
 </p>
 
 # Distribution of Energy
