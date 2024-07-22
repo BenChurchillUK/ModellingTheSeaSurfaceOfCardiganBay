@@ -1,6 +1,6 @@
 # Modelling the Sea Surface of Cardigan Bay
 
-**Disclaimer: This code is linked to a final year dissertation. It only serves to represent the work conducted for that project.**
+*Disclaimer: This code is linked to a final year dissertation. It only serves to represent the work conducted for that project.*
 
 Most wave models consider a fully developed, open ocean. Whilst WAVEWATCH III (WW3) and other wave models have algorithms such as obstruction grids, two-way nesting and the mosiac approach 
 
