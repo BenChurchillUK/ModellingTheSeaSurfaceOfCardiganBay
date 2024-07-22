@@ -11,7 +11,7 @@
 
 %Calling the L1 Database, L1 being the hierarchical layer that displays the
 %boundary between the land and the ocean.
-gshhgShapeFilePath = 'C:\Users\Ben\Desktop\Modelling_the_Sea_Surface_of_Cardigan_Bay\Pre-Poster\GSHHG-SHP\GSHHS_shp\c\GSHHS_c_L1';
+gshhgShapeFilePath = 'C:\Users\Ben\Desktop\Modelling_the_Sea_Surface_of_Cardigan_Bay\GSHHG-SHP\GSHHS_shp\c\GSHHS_c_L1';
 gshhgData = shaperead(gshhgShapeFilePath);
 
 %This database needs to use NC Toolbox.
