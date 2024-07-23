@@ -20,8 +20,8 @@ Firstly, it was important to define the shorelines and depth of the ocean. Initi
 
 Following the 1963 and 1970 papers
 
+![Alt text](https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/MaxWindSpeed_vs_PeakFrequency.png)
 ![Alt text](https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/AverageSignificantWaveHeights.png)
-![Alt text](URL or path to image)
 ![Alt text](URL or path to image)
 ![Alt text](URL or path to image)
 ![Alt text](URL or path to image)
