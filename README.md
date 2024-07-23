@@ -14,6 +14,20 @@ Firstly, it was important to define the shorelines and depth of the ocean. Initi
 </p>
 <p align="center">Figure 1. The graph on the left depicts the L1 Hierarchial Level of the GSHHG Database.</p>
 
+![Alt text]("https://github.com/BenChurchillUK/Final_Year_Dissertation/blob/main/Figures/BathymetricMap.png?raw=true")
+
 # Distribution of Energy
 
 Following the 1963 and 1970 papers
+
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
+![Alt text](URL or path to image)
